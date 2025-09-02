@@ -410,6 +410,13 @@ footer {
   .texto_quadro p {
     font-size: 12px;
   }
+
+  /* ROTA */
+  iframe {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+  }
 }
 
 @media (max-width: 525px) {
@@ -425,3 +432,4 @@ footer {
     border-radius: 50%;
   }
 }
+
