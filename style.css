@@ -374,7 +374,7 @@ footer {
 }
 
 .quartos_geral img {
-  max-height: 230px;
+  max-height: 180px;
   flex: 0 0 180px;
 }
 
@@ -562,3 +562,4 @@ footer {
     right: 2%;
   }
 }
+
